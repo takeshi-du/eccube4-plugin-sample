@@ -1,0 +1,12 @@
+{
+  "name":"ec-cube/MyPlugin",
+  "version":"1.0.0",
+  "description":"my plugin",
+  "type":"eccube-plugin",
+  "require": {
+    "ec-cube/plugin-installer": "~0.0.6"
+  },
+  "extra":{
+    "code":"MyPlugin"
+  }
+}
